@@ -1,9 +1,21 @@
-@import './styles/reset.scss';
-@import './styles/font.scss';
-@import './styles/config.scss';
+@import './styles/reset';
+@import './styles/font';
+@import './styles/config';
 
-@import './styles/base.scss';
+@import './styles/valmynd';
+@import './styles/layout';
 
-@import './styles/header.scss';
+@import './styles/almennt';
+@import './styles/takki';
+@import './styles/box';
 
+@import './styles/base';
+
+@import './styles/header';
+@import './styles/fotur';
+
+@import './styles/opnunartimi';
+@import './styles/meginmal';
+@import './styles/matsedill';
+@import './styles/pontunarform';
 
